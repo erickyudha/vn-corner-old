@@ -1,0 +1,33 @@
+.home-content {
+  padding-top: 50px;
+}
+
+.review-image img {
+  height: 60vh;
+  object-fit: cover;
+  filter: brightness(40%);
+}
+
+.review-content {
+  padding-top: 20px;
+}
+
+.content a{
+  background-color: transparent;
+  text-decoration: none;
+}
+.content a:hover {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.review-text {
+  padding-top: 25px;
+  padding-bottom: 30px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.content {
+  padding-bottom: 50px;
+}

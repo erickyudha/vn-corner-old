@@ -1,0 +1,83 @@
+
+/* My Color Palette:
+Black: #141414
+Dark Purple: #52057B
+Purple: #892CDC
+Light Purple: #BC6FF1
+Grey: #E6E6E6
+White: #FFFFFF
+
+
+
+
+*/
+a {
+  color: #892CDC;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #BC6FF1;
+}
+.bg-black {
+  background-color: #141414;
+}
+.bg-dpurple{
+  background-color: #52057B;
+}
+
+#nav-logo {
+  height: 30px;
+  width: 27px;
+  margin-right: 10px;
+}
+#src-btn:hover {
+  background-color: #892CDC;
+  color: #fff !important;
+}
+.btn:focus, .btn:active {
+   outline: none !important;
+   box-shadow: none !important;
+}
+.carousel-item img {
+  height: 100vh;
+  object-fit: cover;
+  filter: brightness(40%);
+}
+.content {
+  background-color:  #141414;
+  color: #fff;
+  padding: 20px;
+}
+.content a {
+  background-color: #892CDC;
+  border: none;
+}
+.content a:hover {
+  background-color: #BC6FF1;
+}
+.sidebar {
+  background: rgb(152,85,172);
+  background: linear-gradient(141deg, rgba(152,85,172,1) 0%, rgba(71,0,93,1) 100%);
+  color: #fff;
+  padding: 20px;
+}
+#sidebar-btn {
+  background-color: #892CDC;
+  border: none;
+}
+
+.new-updates {
+  margin-bottom: 10px;
+}
+.vn-musics {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.accordion{
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+.accordion-item, .accordion-button {
+  background-color: #212529 !important;
+}
